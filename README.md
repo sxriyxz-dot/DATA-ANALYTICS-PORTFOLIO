@@ -2,8 +2,8 @@ Welcome to my Data Analytics & MIS Portfolio! 📊
 This repository contains my practical Microsoft Excel projects, automated trackers, cleaned datasets, and presentation decks.
 
 What's Inside:
-
-Project 1: Hospital Operations Analytics Dashboard 🏥
+<DETAILS>
+</SUMMARY>Project 1: Hospital Operations Analytics Dashboard 🏥
 Interactive single-page Excel dashboard tracking patient volume, revenue, length of stay, ratings, and readmission KPIs.
 🔗 Link: https://docs.google.com/spreadsheets/d/1LYbiELp_R5s6844QJq8C-K9WD4S8L0uU/edit?usp=drivesdk&ouid=103278401635802430141&rtpof=true&sd=true
 
