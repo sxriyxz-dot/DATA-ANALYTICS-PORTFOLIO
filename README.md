@@ -8,7 +8,7 @@ This repository contains my practical Microsoft Excel projects, automated tracke
 <br>
 <b>Overview:</b> Interactive single-page Excel dashboard analyzing clinical and financial performance for Apollo Hospitals.<br>
 <b>What I Did:</b> Consolidated operations data to track core KPIs: Total Patients, Total Revenue, Average Length of Stay, Readmitted People, and Satisfaction Rating. Built dynamic charts to uncover key insights, including revenue generation by department and identifying which departments experience the highest readmissions.<br><br>
-🔗 <b>Link:</b> [Paste your Google Drive link here]
+🔗 <b>Link:</b> https://docs.google.com/spreadsheets/d/1LYbiELp_R5s6844QJq8C-K9WD4S8L0uU/edit?usp=drivesdk&ouid=103278401635802430141&rtpof=true&sd=true
 <br>
 </details>
 
@@ -17,7 +17,7 @@ This repository contains my practical Microsoft Excel projects, automated tracke
 <br>
 <b>Overview:</b> Executive slide presentation detailing the design, data methodology, and findings of the Apollo Hospitals dashboard.<br>
 <b>What I Did:</b> Translated Excel data into visual representations, highlighted key departmental trends, and extracted actionable business insights for stakeholder review.<br><br>
-🔗 <b>Link:</b> [Paste your Google Drive link here]
+🔗 <b>Link:</b> https://docs.google.com/presentation/d/1vrWTnEnnGlTZyxJ9_PU8r5j87kH1RgVO/edit?usp=drivesdk&ouid=103278401635802430141&rtpof=true&sd=true
 <br>
 </details>
 
