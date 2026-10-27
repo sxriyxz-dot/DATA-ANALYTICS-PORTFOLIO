@@ -19,3 +19,4 @@ Raw vs. cleaned datasets demonstrating duplicate removal, text formatting, date 
 
 6. Dashboard Presentation Deck (PowerPoint)
 Slide presentation walking through the dashboard design, data methodology, key findings, and business insights.
+link-https://docs.google.com/presentation/d/1vrWTnEnnGlTZyxJ9_PU8r5j87kH1RgVO/edit?usp=drivesdk&ouid=103278401635802430141&rtpof=true&sd=true
