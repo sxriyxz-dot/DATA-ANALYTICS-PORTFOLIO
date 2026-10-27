@@ -1,28 +1,58 @@
 Welcome to my Data Analytics & MIS Portfolio! 📊
 This repository contains my practical Microsoft Excel projects, automated trackers, cleaned datasets, and presentation decks.
 
-What's Inside:
-<DETAILS>
-</SUMMARY>Project 1: Hospital Operations Analytics Dashboard 🏥
-Interactive single-page Excel dashboard tracking patient volume, revenue, length of stay, ratings, and readmission KPIs.
-🔗 Link: https://docs.google.com/spreadsheets/d/1LYbiELp_R5s6844QJq8C-K9WD4S8L0uU/edit?usp=drivesdk&ouid=103278401635802430141&rtpof=true&sd=true
+### What's Inside:
 
-Project 2: Apple Dashboard Presentation Deck (PowerPoint) 🍎
-Slide presentation walking through the dashboard design, data methodology, key findings, and business insights.
-🔗 Link: https://docs.google.com/presentation/d/1vrWTnEnnGlTZyxJ9_PU8r5j87kH1RgVO/edit?usp=drivesdk&ouid=103278401635802430141&rtpof=true&sd=true
+<details>
+<summary><b>Project 1: Hospital Operations Analytics Dashboard 🏥</b></summary>
+<br>
+<b>Overview:</b> Interactive single-page Excel dashboard tracking patient volume, revenue, length of stay, ratings, and readmission KPIs.<br>
+<b>What I Did:</b> Consolidated hospital data, calculated key metrics, and built dynamic summaries with filters to support data-driven management decisions.<br><br>
+🔗 <b>Link:</b> [Paste your Google Drive link here]
+<br>
+</details>
 
-Project 3: Employee Attendance and Leave Tracker (HR MIS) 👥
-Automated HR tracker managing monthly attendance, leave balances, late marks, and payroll summaries.
-🔗 Link: 
+<details>
+<summary><b>Project 2: Apple Dashboard Presentation Deck (PowerPoint) 🍎</b></summary>
+<br>
+<b>Overview:</b> Slide presentation walking through the Apple dashboard design and data methodology.<br>
+<b>What I Did:</b> Broke down key findings, visual data representations, and extracted actionable business insights for stakeholder review.<br><br>
+🔗 <b>Link:</b> [Paste your Google Drive link here]
+<br>
+</details>
 
-Project 4: Inventory and Stock Tracker 📦
-Inventory management tool monitoring stock levels, reorder alerts, stock ageing, and fast vs. slow-moving items.
-🔗 Link: 
+<details>
+<summary><b>Project 3: Employee Attendance and Leave Tracker (HR MIS) 👥</b></summary>
+<br>
+<b>Overview:</b> Automated HR tracker managing monthly attendance and payroll summaries.<br>
+<b>What I Did:</b> Tracked leave balances and late marks, utilizing Excel formulas to streamline recurring monthly HR record-keeping.<br><br>
+🔗 <b>Link:</b> [Paste your Google Drive link here]
+<br>
+</details>
 
-Project 5: Accounts Receivable Ageing Report 💰
-Credit and collections report tracking customer balances across 0–30, 31–60, 61–90, and 90+ day overdue buckets.
-🔗 Link: 
+<details>
+<summary><b>Project 4: Inventory and Stock Tracker 📦</b></summary>
+<br>
+<b>Overview:</b> Inventory management tool monitoring stock levels and item movement.<br>
+<b>What I Did:</b> Set up automated reorder alerts, analyzed stock ageing, and categorized fast vs. slow-moving items for better inventory control.<br><br>
+🔗 <b>Link:</b> [Paste your Google Drive link here]
+<br>
+</details>
 
-Project 6: Data Cleaning and Standardization 🧹
-Raw vs. cleaned datasets demonstrating duplicate removal, text formatting, date standardization, and data validation.
-🔗 Link: 
+<details>
+<summary><b>Project 5: Accounts Receivable Ageing Report 💰</b></summary>
+<br>
+<b>Overview:</b> Credit and collections report tracking outstanding customer balances.<br>
+<b>What I Did:</b> Categorized overdue accounts across 0–30, 31–60, 61–90, and 90+ day buckets to help prioritize collection follow-ups.<br><br>
+🔗 <b>Link:</b> [Paste your Google Drive link here]
+<br>
+</details>
+
+<details>
+<summary><b>Project 6: Data Cleaning and Standardization 🧹</b></summary>
+<br>
+<b>Overview:</b> Raw vs. cleaned datasets demonstrating data quality improvements.<br>
+<b>What I Did:</b> Performed duplicate removal, text formatting, date standardization, and applied data validation rules to prepare messy data for analysis.<br><br>
+🔗 <b>Link:</b> [Paste your Google Drive link here]
+<br>
+</details>
