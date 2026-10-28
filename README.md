@@ -1,5 +1,5 @@
 Welcome to my Data Analytics & MIS Portfolio! 📊
-This repository contains my practical Microsoft Excel projects, automated trackers, cleaned datasets, and presentation decks.
+This repository contains my practical Microsoft Excel projects, automated trackers, cleaned datasets, and presentation decks.....Open in Excel....🔴
 
 ### What's Inside:
 
@@ -35,7 +35,7 @@ This repository contains my practical Microsoft Excel projects, automated tracke
 <br>
 <b>Overview:</b> Comprehensive inventory management tool designed to monitor stock levels and supply chain movement.<br>
 <b>What I Did:</b> Programmed automated reorder alerts, analyzed inventory ageing, and categorized fast-moving versus slow-moving items to optimize stock control.<br><br>
-🔗 <b>Link:</b> [Paste your Google Drive link here]
+🔗 <b>Link:</b> https://docs.google.com/spreadsheets/d/1UyPU6iN77CXggd_6eEzFY76Icy_8okW4/edit?usp=drivesdk&ouid=103278401635802430141&rtpof=true&sd=true
 <br>
 </details>
 
