@@ -26,7 +26,7 @@ This repository contains my practical Microsoft Excel projects, automated tracke
 <br>
 <b>Overview:</b> Automated Human Resources tracking system for managing monthly attendance and payroll reconciliation.<br>
 <b>What I Did:</b> Utilized advanced Excel functions to track employee leave balances, late marks, and daily attendance, streamlining recurring HR reporting workflows.<br><br>
-🔗 <b>Link:</b> [Paste your Google Drive link here]
+🔗 <b>Link:</b> https://docs.google.com/spreadsheets/d/1mE33E4xgd5KKB_CPYlRFl22r_4gVb7TS/edit?usp=drivesdk&ouid=103278401635802430141&rtpof=true&sd=true
 <br>
 </details>
 
