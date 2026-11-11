@@ -44,7 +44,7 @@ This repository contains my practical Microsoft Excel projects, automated tracke
 <br>
 <b>Overview:</b> Financial credit and collections report tracking outstanding customer balances and payment timelines.<br>
 <b>What I Did:</b> Categorized overdue accounts across 0–30, 31–60, 61–90, and 90+ day buckets, utilizing PivotTables to help management prioritize collection efforts.<br><br>
-🔗 <b>Link:</b> [Paste your Google Drive link here]
+🔗 <b>Link:</b> https://docs.google.com/spreadsheets/d/1VWWW5iDOK1ijJ8mvG8QVUCAWMO3RHMvI/edit?usp=drive_link&ouid=103278401635802430141&rtpof=true&sd=true
 <br>
 </details>
 
