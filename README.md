@@ -53,6 +53,6 @@ This repository contains my practical Microsoft Excel projects, automated tracke
 <br>
 <b>Overview:</b> Demonstration of data quality improvements transforming raw data into analysis-ready datasets.<br>
 <b>What I Did:</b> Executed duplicate removal, text formatting, date standardization, and applied strict data validation rules to resolve formatting inconsistencies.<br><br>
-🔗 <b>Link:</b> [Paste your Google Drive link here]
+🔗 <b>Link:</b> https://docs.google.com/spreadsheets/d/1O3jyEFpV1_dhjBRKbSpL4eYDOJn6hHTu/edit?usp=drive_link&ouid=103278401635802430141&rtpof=true&sd=true
 <br>
 </details>
